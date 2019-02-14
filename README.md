@@ -21,7 +21,8 @@ Note (m.u.) is shorthand for *monetary units*.
 8) `Region`: {Lisbon - 1, Oporto - 2, or Other - 3} (Nominal) 
 
 
-**Concepts and Classes**
+## Concepts and Classes
+
 Concepts explored in this project:
 Unsupervised learning algorithms like K-Means Clustering and Gaussian Mixture Model Clustering
 Feature Scaling
