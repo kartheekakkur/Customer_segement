@@ -25,10 +25,13 @@ Note (m.u.) is shorthand for *monetary units*.
 
 **Concepts explored in this project:**
 
-Unsupervised learning algorithms like K-Means Clustering and Gaussian Mixture Model Clustering
-Feature Scaling
-Dimensionality reduction using Principle Component Analysis
-Outlier identification and removal
-Silhouette scores
-Relevant Classes:
-Intro to Machine Learning
+1. Unsupervised learning algorithms like K-Means Clustering and Gaussian Mixture Model Clustering
+
+2. Feature Scaling
+
+3. Dimensionality reduction using Principle Component Analysis
+
+4. Outlier identification and removal
+
+5. Silhouette scores
+
