@@ -23,7 +23,8 @@ Note (m.u.) is shorthand for *monetary units*.
 
 ## Concepts and Classes
 
-Concepts explored in this project:
+**Concepts explored in this project:**
+
 Unsupervised learning algorithms like K-Means Clustering and Gaussian Mixture Model Clustering
 Feature Scaling
 Dimensionality reduction using Principle Component Analysis
